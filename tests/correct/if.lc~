@@ -1,0 +1,4 @@
+(function (myfunc v w) 
+	  (if (lt v w) (stringprint "Wendy wins!") (stringprint "Valerie wins!")))
+(myfunc 9471 91341)
+(myfunc 4 -98)

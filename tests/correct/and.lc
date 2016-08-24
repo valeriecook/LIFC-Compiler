@@ -1,0 +1,6 @@
+(intprint (and 1 0))
+(intprint (and 0 0))
+(intprint (and 0 1))
+(intprint (and 1 1))
+(assign n 3)
+(intprint (and n (- n 1)))

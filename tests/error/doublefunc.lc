@@ -1,0 +1,2 @@
+(function (afunc foo) 6)
+(function (afunc loo) 1)

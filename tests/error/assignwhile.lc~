@@ -1,0 +1,4 @@
+(assign x 5)
+(while x (assign x 0))
+
+

@@ -1,0 +1,4 @@
+(intprint (or 1 1))
+(intprint (or 1 0))
+(intprint (or 0 1))
+(intprint (or 0 0))

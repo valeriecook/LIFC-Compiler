@@ -1,0 +1,2 @@
+(function (myfunc x) (assign y 5))
+(intprint (myfunc 2))

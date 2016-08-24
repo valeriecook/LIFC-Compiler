@@ -1,0 +1,2 @@
+(intprint (eq 9 -3228))
+(intprint (eq 0 0))

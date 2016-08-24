@@ -1,0 +1,5 @@
+(function (myfunc x)
+	  (sequence (assign y 5)
+	  (+ y x)))
+(intprint (myfunc 2))
+

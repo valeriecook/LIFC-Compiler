@@ -1,0 +1,3 @@
+#!/bin/bash
+valgrind --tool=memcheck --leak-check=full --track-origins=yes -q ../lifcc $1
+echo $?

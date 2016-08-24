@@ -1,0 +1,2 @@
+(intprint (assign x 5))
+(stringprint (assign y "lalala"))
